@@ -1,0 +1,48 @@
+body{
+    box-shadow: 0 0 30px 10px rgba(12, 3, 18,1);
+    background-color: #00598c;
+
+    margin: 100px;
+font-family: 'Caveat', cursive;
+font-family: 'Oswald', sans-serif;
+font-family: 'Shantell Sans', cursive;
+    margin: 100px;
+
+
+}
+html{
+     background-color: red;
+
+
+
+}
+a{
+    text-decoration: none;
+    
+
+
+
+
+}
+img{
+    max-width: 100%;
+    height: auto;
+    display: block;
+    width: 80%;
+    margin: auto;
+}
+a:hover{
+		color: purple;
+		font-size: 45px;
+		text-decoration: underline;
+
+
+}
+
+@import url('https://fonts.googleapis.com/css2?family=Caveat&family=Oswald&family=Shantell+Sans&display=swap');
+
+
+
+
+
+
